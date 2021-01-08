@@ -12,7 +12,7 @@ To view your image, use the following endpoints or host your own.
     
 ## Styles
 ***Blocks (default)***  
-WIP
+![Blocks](https://tr.htbrown.com/profile/thehtbrown)
 
 ***List***  
-WIP
+![List](https://tr.htbrown.com/profile/thehtbrown?style=list)
