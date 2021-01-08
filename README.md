@@ -14,5 +14,5 @@ To view your image, use the following endpoints or host your own.
 ***Blocks (default)***  
 WIP
 
-***List***
+***List***  
 WIP
